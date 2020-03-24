@@ -1,0 +1,611 @@
+[
+  {
+    "name": "悦活里",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "13437850035",
+    "category": "蔬菜水果",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 5666,
+    "rating": 4.9,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "50元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "http://img3.imgtn.bdimg.com/it/u=1252808148,3420157609&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "洪山菜场",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "蔬菜水果",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 3566,
+    "rating": 4.1,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "http://img0.imgtn.bdimg.com/it/u=3324809438,2325711812&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "光谷菜场",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "蔬菜水果",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 3256,
+    "rating": 4.7,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "35元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "http://img1.imgtn.bdimg.com/it/u=12806542,2068430541&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "中百仓储",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "生活日用",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 8888,
+    "rating": 4.9,
+    "distribution": {
+      "tips": "配送费约¥8",
+      "initial": "60元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "http://img0.imgtn.bdimg.com/it/u=3605278815,2441228755&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "沃尔玛",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "生活日用",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 7855,
+    "rating": 4.8,
+    "distribution": {
+      "tips": "配送费约¥10",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "http://img3.imgtn.bdimg.com/it/u=2064367633,1528560296&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "新天地",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "生活日用",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 7488,
+    "rating": 4.5,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1109196869,1914265949&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "光谷世界城",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "生活日用",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 7788,
+    "rating": 4.8,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2909665828,1216653110&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "雄楚大药房",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850448",
+    "category": "医疗健康",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 3866,
+    "rating": 3.6,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "40元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1294629242,1673069937&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "洪山大药房",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "医疗健康",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 5566,
+    "rating": 4.1,
+    "distribution": {
+      "tips": "配送费约¥10",
+      "initial": "50元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3171958823,1741405125&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "光谷大药房",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "医疗器械",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 8899,
+    "rating": 4.2,
+    "distribution": {
+      "tips": "配送费约¥2",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2960140996,2235156491&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "金地大药房",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "医疗健康",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 3566,
+    "rating": 4.2,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2821848582,1342458620&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "雄伟大药房",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "蔬菜水果",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 8886,
+    "rating": 4.8,
+    "distribution": {
+      "tips": "配送费约¥6",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4239770316,1461020150&fm=11&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "安好大药房",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "医疗健康",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 3566,
+    "rating": 4.8,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3961495940,1998109632&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "芒果100%",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850058",
+    "category": "生活日用",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 356,
+    "rating": 4.8,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "20元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4206410988,2125833158&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "好利来杂货店",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737550058",
+    "category": "蔬菜水果",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 2222,
+    "rating": 4.6,
+    "distribution": {
+      "tips": "配送费约¥2",
+      "initial": "20元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=93980693,3238264090&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  },
+  {
+    "name": "好运来",
+    "address": "湖北省武汉市洪山区雄楚大街",
+    "latitude": 30.50225309,
+    "longitude": 114.39048954,
+    "geohash": [
+      30.50225309,
+      114.39048954
+    ],
+    "phone": "17737850158",
+    "category": "蔬菜水果",
+    "supports": [
+      {
+        "description": "已加入“外送保”计划，食品已消毒安全有保障",
+        "icon_name": "保"
+      },
+      {
+        "description": "疫情专人配送，保证安全送达",
+        "icon_name": "专"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_name": "票"
+      }
+    ],
+    "rating_count": 5522,
+    "rating": 4.8,
+    "distribution": {
+      "tips": "配送费约¥5",
+      "initial": "30元起送"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "image_path": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1673314555,2768777863&fm=26&gp=0.jpg",
+    "delivery_text": "疫情直送",
+    "activities": []
+  }
+]
+
